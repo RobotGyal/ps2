@@ -1,16 +1,8 @@
+# Personal Site for Aleia Knight
 
+![img]('images/me.jpg')
 
-
-
-
-
-
-
-
-
-
-
-CREDITS:
+## CREDITS:
 
 TITLE: 
 Marble - Fully Responsive Free HTML5 template
