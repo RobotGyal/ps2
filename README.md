@@ -1,6 +1,6 @@
 # Personal Site for Aleia Knight
 
-![img]('images/me.jpg')
+![img]('images/Interwoven.jpg')
 
 ## CREDITS:
 
