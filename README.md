@@ -1,6 +1,45 @@
 # Personal Site for Aleia Knight
 
-![img]('images/Interwoven.jpg')
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/RobotGyal/ps2.svg)](https://github.com/RobotGyal/ps2/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/RobotGyal/ps2.svg)](https://github.com/RobotGyal/ps2/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=600px height=100px src="images/Interwoven.jpg" alt="Project logo"></a>
+</p>
+
+---
+
+## Motivation
+This is a site of 2 parts:
+
+One is to showcase different works, projects, ideas, etc. of Aleia Knights'.
+
+Secondly, to actively practice and display a full-stack web development skillset.
+
+---
+
+## Live Site
+[aleiaknight.com](http://aleiaknight.com)
+
+---
+
+## Built With
+* Python 3
+* Django
+* HTML
+* CSS
+* SQLLite
+* NASA APOD API
+* Bootstrap
+
+---
 
 ## CREDITS:
 
