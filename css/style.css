@@ -773,7 +773,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   text-align: left;
   width: 100%;
   float: left;
-  margin-bottom: 40px;
+  margin-bottom: 100px;
   position: relative;
 }
 .fh5co-feature .fh5co-icon {
@@ -1159,7 +1159,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .col-padding {
-  padding: 10px !important;
+  padding: 25px !important;
 }
 
 .js .animate-box {
